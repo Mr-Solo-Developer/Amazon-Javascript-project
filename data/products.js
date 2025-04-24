@@ -702,7 +702,7 @@ export const products = [
     priceCents: 54900,
     keywords: ["Electronics", "SmartWatch", "Apple"],
   }
-,{
+  , {
     id: "sd1aa2adc23472152847e9-532225133-40wqe3f-b7cf-57fde044a955",
     image: "../images/products/Samsung-S24.png",
     name: "Samsung S24 Ultra ",
@@ -713,7 +713,7 @@ export const products = [
     priceCents: 157424,
     keywords: ["Electronics", "SmartPhone", "Samsung"],
   }
-,{
+  , {
     id: "sd1a2adc23472152847e9-532225133-40wqe3f-b7cf-57fde044a955",
     image: "../images/products/Samsung-laptop.png",
     name: "Samsung Galaxy Book4 360 Laptop ",
@@ -721,7 +721,7 @@ export const products = [
       stars: 5,
       count: 51932,
     },
-  priceCents: 214999,
+    priceCents: 214999,
     keywords: ["Electronics", "Laptop", "Samsung"],
   }
 ];
