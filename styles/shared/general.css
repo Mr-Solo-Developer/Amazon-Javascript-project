@@ -20,9 +20,7 @@ select {
   cursor: pointer;
 }
 
-input,
-select,
-button {
+input, select, button {
   font-family: Roboto, Arial;
 }
 
